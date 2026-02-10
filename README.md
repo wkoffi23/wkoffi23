@@ -27,7 +27,6 @@ My name is Wolali KOFFI
 ### 🚀 Scientific Computing & HPC
 * **Numerical:** NumPy, SciPy, Matplotlib
 * **Parallelization:** OpenMP, MPI (Learning)
-* **Frameworks:** Finite Element / Finite Volume methods
 
 <!--
 **wkoffi23/wkoffi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
