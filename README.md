@@ -21,7 +21,7 @@ My name is Wolali KOFFI
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 💻 Programming & Databases
-* **Languages:** C++, C, Python
+* **Languages:** C++, C, Python, FreeFem++
 * **Databases:** SQL (PostgreSQL, SQLite) — *Efficient data management and querying for scientific datasets.*
 
 ### 🚀 Scientific Computing & HPC
